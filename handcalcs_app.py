@@ -1,6 +1,9 @@
+import streamlit as st
+import handcalcs
+
 from math import sqrt
 from handcalcs.handcalcs import handcalc
-import streamlit as st
+
 
 @handcalc
 def quadratic(a,b,c):
