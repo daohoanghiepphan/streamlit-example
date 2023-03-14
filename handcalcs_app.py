@@ -1,4 +1,6 @@
 import streamlit as st
+import handcalcs
+from handcalcs import handcalcs
 import handcalcs.render
 
 from math import sqrt
