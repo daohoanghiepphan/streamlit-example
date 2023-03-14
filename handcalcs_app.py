@@ -1,5 +1,5 @@
 import streamlit as st
-import handcalcs
+import handcalcs.render
 
 from math import sqrt
 from handcalcs.handcalcs import handcalc
